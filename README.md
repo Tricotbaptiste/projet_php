@@ -1,5 +1,8 @@
 # projet_php
-il faut decompresser les fichiers .zip 
+il faut decompresser les fichiers .zip et nommer la base de donnees lol(pour league of legends ) 
+
+il faut rentrer login. php dans l'url
+
 On s’est organisé principalement sur discord, avec chacun sa spécialité :
 Audric Gantaume → chef de projet + html/css
 Nathan Jolly → PHP/ mise en page
